@@ -207,4 +207,4 @@ This project is open-source and free to use.
 
 ## 👨‍💻 Author
 
-Developed by **Manav D**
+Developed by **Manav**
